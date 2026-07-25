@@ -1,0 +1,16 @@
+{
+  "short_name": "TomatoLog",
+  "name": "Tomato Log - ライフログ PWA",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#12131C",
+  "theme_color": "#12131C",
+  "display": "standalone",
+  "orientation": "portrait"
+}

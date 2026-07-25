@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Production build
+dist/
+build/
+
+# IDE & Environment
+.DS_Store
+*.local
+.env
+.env.*
+
+# Debug & scratch scripts
+scratch/

@@ -1,0 +1,40 @@
+:root {
+  /* Color Palette */
+  --bg-dark: #0d0f17;
+  --bg-card: rgba(22, 26, 41, 0.75);
+  --bg-card-hover: rgba(30, 35, 56, 0.85);
+  --bg-glass: rgba(255, 255, 255, 0.04);
+  --bg-input: rgba(15, 18, 30, 0.8);
+  
+  /* Primary Accents (Tomato & Coral Glow) */
+  --primary: #ff385c;
+  --primary-hover: #ff5272;
+  --primary-glow: rgba(255, 56, 92, 0.35);
+  --accent-orange: #ff7043;
+  --accent-green: #00e676;
+  --accent-blue: #29b6f6;
+  --accent-purple: #ab47bc;
+
+  /* Typography */
+  --text-main: #f1f5f9;
+  --text-muted: #94a3b8;
+  --text-dim: #64748b;
+  --border-color: rgba(255, 255, 255, 0.08);
+  --border-active: rgba(255, 56, 92, 0.5);
+
+  /* Fonts */
+  --font-heading: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-code: 'JetBrains Mono', monospace;
+
+  /* Shadows & Effects */
+  --shadow-glass: 0 12px 32px 0 rgba(0, 0, 0, 0.37);
+  --backdrop-blur: blur(16px);
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-full: 9999px;
+
+  --transition-fast: 0.18s ease;
+  --transition-normal: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
